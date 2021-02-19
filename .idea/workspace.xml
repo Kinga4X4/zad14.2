@@ -14,6 +14,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../Kolejki_Przegląd samochodów_Kinga P" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Kolejki_Przegląd samochodów_Kinga P" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -22,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ohlFTXvZVeEZSFPrdZ5wBAMo04" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -76,6 +85,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1613762019533" />
+    <state x="445" y="243" key="Github.ShareDialog" timestamp="1613773582702">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="445" y="243" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1613773582702" />
+    <state x="349" y="41" key="Github.UntrackedFilesDialog" timestamp="1613773613342">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="41" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1613773613342" />
     <state width="618" height="163" key="GridCell.Tab.0.bottom" timestamp="1613773125273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
