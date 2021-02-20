@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb98189d-0046-462b-9507-34478906b21f" name="Default Changelist" comment="" />
+    <list default="true" id="eb98189d-0046-462b-9507-34478906b21f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Kolejki_Przegląd samochodów_Kinga P/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolejki_Przegląd samochodów_Kinga P/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolejki_Przegląd samochodów_Kinga P/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolejki_Przegląd samochodów_Kinga P/src/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolejki_Przegląd samochodów_Kinga P/src/VehicleInspectionStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolejki_Przegląd samochodów_Kinga P/src/VehicleInspectionStation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +74,20 @@
       <option name="presentableId" value="Default" />
       <updated>1613746599957</updated>
     </task>
+    <task id="LOCAL-00001" summary="coś nie chce działać">
+      <created>1613773668942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613773668942</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="coś nie chce działać" />
+    <MESSAGE value="Rozwiązanie zadania,funkcjonuje" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rozwiązanie zadania,funkcjonuje" />
   </component>
   <component name="WindowStateProjectService">
     <state x="420" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613773107337">
@@ -93,21 +110,41 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="349" y="41" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1613773613342" />
-    <state width="618" height="163" key="GridCell.Tab.0.bottom" timestamp="1613773125273">
+    <state width="772" height="15" key="GridCell.Tab.0.bottom" timestamp="1613835199033">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="618" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1613773125273" />
-    <state width="618" height="163" key="GridCell.Tab.0.center" timestamp="1613773125273">
+    <state width="772" height="15" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1613835199033" />
+    <state width="772" height="15" key="GridCell.Tab.0.center" timestamp="1613835199033">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="618" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1613773125273" />
-    <state width="618" height="163" key="GridCell.Tab.0.left" timestamp="1613773125273">
+    <state width="772" height="15" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1613835199033" />
+    <state width="772" height="15" key="GridCell.Tab.0.left" timestamp="1613835199033">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="618" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1613773125273" />
-    <state width="618" height="163" key="GridCell.Tab.0.right" timestamp="1613773125273">
+    <state width="772" height="15" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1613835199033" />
+    <state width="772" height="15" key="GridCell.Tab.0.right" timestamp="1613835199033">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="618" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1613773125273" />
+    <state width="772" height="15" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1613835199033" />
+    <state width="387" height="204" key="GridCell.Tab.1.bottom" timestamp="1613774157773">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="387" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1613774157773" />
+    <state width="387" height="204" key="GridCell.Tab.1.center" timestamp="1613774157772">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="387" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1613774157772" />
+    <state width="387" height="204" key="GridCell.Tab.1.left" timestamp="1613774157772">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="387" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1613774157772" />
+    <state width="387" height="204" key="GridCell.Tab.1.right" timestamp="1613774157772">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="387" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1613774157772" />
+    <state x="233" y="65" key="Vcs.Push.Dialog.v2" timestamp="1613773679009">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="65" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1613773679009" />
   </component>
 </project>

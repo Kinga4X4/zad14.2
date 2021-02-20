@@ -1,4 +1,3 @@
-import javax.sound.midi.Soundbank;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
@@ -27,31 +26,32 @@ public class VehicleInspectionStation {
                     System.out.println("Do widzenia!");
                     break;
             }
-        } while (option != Option.EXIT);
+        }  while (option != Option.EXIT);
     }
 
     private void takeVehicle() {
         if (vehicles.isEmpty()) {
-            System.out.println("Brak samochodów w kolejce");
+            System.out.println("Brak samochodów w kolejce. Czas na przerwę:) ");
         } else {
             Vehicle nextVehicle = vehicles.poll();
             System.out.print("Samochód został pobrany do przeglądu: ");
+            System.out.println("----->");
             System.out.println(nextVehicle);
         }
-
     }
 
     private Vehicle createVehicle() {
-        System.out.println("Podaj typ pojazdu(motocykl, samochód osobowy, samochód ciężarowy:");
+        System.out.println("Podaj typ pojazdu(motocykl, samochód osobowy, samochód ciężarowy):");
         String typ = sc.nextLine();
-        System.out.println("Podaj markę pojazdu:");
+        System.out.println("Podaj markę pojazdu: ");
         String brand = sc.nextLine();
-        System.out.println("Podaj model:");
+        System.out.println("Podaj model: ");
         String model = sc.nextLine();
-        System.out.println("Podaj rocznik:");
+        System.out.println("Podaj rocznik: ");
         int year = sc.nextInt();
-        System.out.println("Podaj przebieg/km:");
+        System.out.println("Podaj przebieg/km: ");
         int mileage = sc.nextInt();
+        sc.nextLine();
         System.out.println("Podaj nr VIN:");
         String vinNumber = sc.nextLine();
         System.out.println();
@@ -85,11 +85,7 @@ public class VehicleInspectionStation {
 
         @Override
         public String toString() {
-            return "Option{" +
-                    "option=" + option +
-                    ", description='" + description + '\'' +
-                    ", option=" + option +
-                    '}';
+            return  "Opcja " + option + " - " + description;
         }
     }
 }
