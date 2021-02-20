@@ -66,14 +66,10 @@ public class Vehicle {
 
     @Override
     public String toString() {
-        return "Vehicle{" +
-                "typ='" + typ + '\'' +
-                ", brand='" + brand + '\'' +
-                ", model='" + model + '\'' +
-                ", year=" + year +
-                ", mileage=" + mileage +
-                ", vinNumber=" + vinNumber +
-                '}';
+        return
+                typ + " " + brand + ": " + model + ", data produkcji: " + year +
+                        ", przebieg: " + mileage +
+                        ", numerVIN: " + vinNumber;
     }
 
 }
